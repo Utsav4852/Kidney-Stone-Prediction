@@ -10,3 +10,4 @@ Play along!
 
 ## References:
 - https://optuna.org/
+- https://www.kaggle.com/competitions/playground-series-s3e12
